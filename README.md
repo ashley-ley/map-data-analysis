@@ -1,6 +1,4 @@
-# map-data-analysis
-
-# Project Name
+# Student MAP Data Analysis
 
 This README provides information about Student Measures of Academic Proactice (MAP) Data Analysis, a project designed to analyze student progress from Kindgergarten (2016) to Sixth Grade (2023). 
 
