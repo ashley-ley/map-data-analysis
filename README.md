@@ -8,7 +8,7 @@ In accordance with ethical considerations, we have taken every precaution to saf
 
 ## Contact
 
-If you have any questions or concerns regarding privacy or data handling in this project, please don't hesitate to contact us at [yakopeca@gmail.com](yakopeca@gmail.com).
+If you have any questions or concerns regarding privacy or data handling in this project, please don't hesitate to contact us at [yakopeca@gmail.com](yakopeca@gmail.com) or [hannahvarghese@gmail.com](hannahvarghese@gmail.com).
 
 ## Conclusion
 
