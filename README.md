@@ -20,7 +20,7 @@ The dataset underwent preprocessing through PostgreSQL to merge and compile a la
 
 To benchmark academic performance, we consider specific score thresholds as "on-grade level" for each academic year. The following scores would be considered on-grade level for each Beginning of Year (BOY) test:
 
-- BOY Kindergarten: 135
+- Kindergarten: 135
 - First Grade: 155
 - Second Grade: 170
 - Third Grade: 184
