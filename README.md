@@ -40,9 +40,11 @@ However, it's essential to note that these values do not account for the educati
 
 The analysis revealed several key findings:
 - Disruptions caused by the Spring 2020 COVID-19 shutdowns were reflected in reduced student participation in MAP testing. 
-- Most students showed continuous academic growth from 2016 to 2023, with variations in growth rates.
-- Students in Honors continue to out-perform students in on-level courses; generally seeing more content for the next year's grade, which could correlate to their higher scores. 
+- From 2016 to 2023, the majority of students displayed a consistent pattern of academic improvement. However, after the COVID-related school closures in Fall 2020, there was a noticeable decrease in the rate of academic progress.
 ![image](https://github.com/ashley-ley/map-data-analysis/assets/132225987/96c7c4d5-2312-4fcb-a48a-6161ab6d6f29)
+
+- Students in Honors (Teacher = "Kirby") continue to out-perform students in on-level courses; generally seeing more content for the next year's grade, which could correlate to their higher scores.
+![image](https://github.com/ashley-ley/map-data-analysis/assets/132225987/6cf696db-6c97-4fd3-9ebf-d1d51a963e17)
 
 ## Conclusion and Future Work
 
