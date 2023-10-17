@@ -47,7 +47,7 @@ However, it's essential to note that these values do not account for the educati
 - Students in Honors (Teacher = "Kirby") continue to out-perform students in on-level courses; generally seeing more content for the next year's grade, which could correlate to their higher scores.
 
 ![image](https://github.com/ashley-ley/map-data-analysis/assets/132225987/9843bcaf-5cc8-4a47-ad58-b60315181b93)
-- On average, student scores in the winter testing period were the lowest among each testing period. Above displays an example of student scores in the 4th grade separated by gender. 
+- On average, student scores in the winter testing period were the lowest among each testing period. Above displays an example of student scores in the 4th grade separated by gender. This was consistent for each grade. 
 
 ## Conclusion and Future Work
 
