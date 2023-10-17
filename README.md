@@ -49,6 +49,24 @@ However, it's essential to note that these values do not account for the educati
 ![image](https://github.com/ashley-ley/map-data-analysis/assets/132225987/9843bcaf-5cc8-4a47-ad58-b60315181b93)
 - On average, student scores in the winter testing period were the lowest among each testing period. Above displays an example of student scores in the 4th grade separated by gender. This was consistent for each grade. 
 
+2022-2023 Student Demgraphics
+![image](https://github.com/ashley-ley/map-data-analysis/assets/132293452/0f699118-26f1-4068-a071-c85f8b4f7bd1)
+
+![image](https://github.com/ashley-ley/map-data-analysis/assets/132293452/9ee1957f-b46f-4b51-83f7-de8c86426005)
+
+![image](https://github.com/ashley-ley/map-data-analysis/assets/132293452/d282fe6c-4cb7-4dda-86f1-2e474226c71d)
+
+2022-2023 Student Group Comparisions and MAP Growth
+Comparing Growth of Special Education (SpEd) Students and Non-SpEd Students in 2022-2023 
+![image](https://github.com/ashley-ley/map-data-analysis/assets/132293452/eede5c71-1584-4dfa-9522-929b7cd1b738)
+
+![image](https://github.com/ashley-ley/map-data-analysis/assets/132293452/f2b21911-cefa-4f4f-8557-a57e2359a61b)
+
+Comparing Growth of Gifted & Talented (GT) Students and Non-GT Students in 2022-2023 
+![image](https://github.com/ashley-ley/map-data-analysis/assets/132293452/b83578b2-a1aa-41d3-b743-64e75fa9002c)
+
+![image](https://github.com/ashley-ley/map-data-analysis/assets/132293452/559e67e8-131b-40db-a46f-bb63ad56ad7b)
+
 ## Conclusion and Future Work
 
 Students in Patagonia School District showed consistent growth from Kindergarten (2016) to 6th Grade (2023). Certain analyses showed different student groups performing at different levels, however, all students displayed some growth over time. Future work for this project includes the development of an interactive dashboard, allowing for more granular analysis at the individual student level rather than only at the teacher level. 
