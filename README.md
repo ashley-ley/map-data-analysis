@@ -16,6 +16,11 @@ This dataset was sourced from a local school district. To safeguard the privacy 
 
 The dataset underwent preprocessing through PostgreSQL to merge and compile a larger table containing student demographics and their corresponding academic scores. To enhance data analysis clarity, columns have been thoughtfully renamed. Additional analysis is being carried out through a Jupyter Notebook. 
 
+## Repository Organization 
++ Resources Folder: contains all CSV files used in our analysis
++ Analysis: contains three Jupyter Notebooks with further analysis on student MAP scores from 2016-2023, scores based on student groups, and information about student demographics
++ Schemata.sql: contains a schemata created in PostgreSQL to merge two datasets 
+
 ## Academic Milestones
 
 To benchmark academic performance, we consider specific score thresholds as "on-grade level" for each academic year. The following scores would be considered on-grade level for each Beginning of Year (BOY) test:
@@ -28,12 +33,12 @@ To benchmark academic performance, we consider specific score thresholds as "on-
 - Fifth Grade: 199
 - Sixth Grade: 205
 
-However, it's essential to note that these values do not account for the educational disruptions brought about by the COVID-19 pandemic.
+However, it's essential to note that these values do not account for the educational disruptions brought about by the COVID-19 pandemic, student learning disabilities or other factors that could lead to a student being below grade level. 
 
 ## Key Questions Addressed
 
 - Are students demonstrating continuous academic growth over time?
-- Which group of students exhibited the most significant academic growth, including Emergent Bilinguals (EBs), Special Education (SpEd) students, or Honors students?****
+- Which group of students exhibited the most significant academic growth, including Emergent Bilinguals (EBs), Special Education (SpEd) students, or Honors students?
 - Did the COVID-19 pandemic have a measurable impact on student growth?
 
 ## Results
